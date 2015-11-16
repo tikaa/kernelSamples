@@ -1,26 +1,26 @@
-[  
-   {  
+{  
+   "sample1":{  
       "pluginName":"sample1",
       "pluginArchive":"sample1.zip",
       "pluginDescription":"this is sample 1 from developer studio ",
       "image":"icons/sample1"
    },
-   {  
+   "sample2":{  
       "pluginName":"sample1",
       "pluginArchive":"sample2.zip",
       "pluginDescription":"this is sample 2 from developer studio ",
       "image":"icons/sample2"
    },
-   {  
+   "sample3":{  
       "pluginName":"sample1",
       "pluginArchive":"sample3.zip",
       "pluginDescription":"this is sample 3 from developer studio ",
       "image":"icons/sample3"
    },
-   {  
+   "sample4":{  
       "pluginName":"sample4",
       "pluginArchive":"sample4.zip",
       "pluginDescription":"this is sample 4 from developer studio ",
       "image":"icons/sample4"
    }
-]
+}

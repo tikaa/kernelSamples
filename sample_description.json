@@ -3,24 +3,24 @@
       "pluginName":"sample1",
       "pluginArchive":"sample1.zip",
       "pluginDescription":"this is sample 1 from developer studio ",
-      "image":"icons/sample1"
+      "iconLoc":"icons/sample1"
    }},
     {"WSO2PluginSampleExt" : {  
       "pluginName":"sample1",
       "pluginArchive":"sample2.zip",
       "pluginDescription":"this is sample 2 from developer studio ",
-      "image":"icons/sample2"
+      "iconLoc":"icons/sample2"
    }},
     {"WSO2PluginSampleExt" : {  
       "pluginName":"sample1",
       "pluginArchive":"sample3.zip",
       "pluginDescription":"this is sample 3 from developer studio ",
-      "image":"icons/sample3"
+      "iconLoc":"icons/sample3"
    }},
     {"WSO2PluginSampleExt" : {  
       "pluginName":"sample4",
       "pluginArchive":"sample4.zip",
       "pluginDescription":"this is sample 4 from developer studio ",
-      "image":"icons/sample4"
+      "iconLoc":"icons/sample4"
    }}
 ]

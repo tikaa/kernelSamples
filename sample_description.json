@@ -1,26 +1,27 @@
 [  
-   {"WSO2PluginSampleExt" : {  
+   {  
       "pluginName":"sample1",
       "pluginArchive":"sample1.zip",
+      "isUpdatedFromGit" : "true",
       "pluginDescription":"this is sample 1 from developer studio ",
-      "iconLoc":"icons/sample1"
-   }},
-    {"WSO2PluginSampleExt" : {  
+      "iconLoc":"icon.png"
+   },
+   {  
       "pluginName":"sample1",
       "pluginArchive":"sample2.zip",
       "pluginDescription":"this is sample 2 from developer studio ",
-      "iconLoc":"icons/sample2"
-   }},
-    {"WSO2PluginSampleExt" : {  
+      "iconLoc":"icon.png"
+   },
+    {  
       "pluginName":"sample1",
       "pluginArchive":"sample3.zip",
       "pluginDescription":"this is sample 3 from developer studio ",
-      "iconLoc":"icons/sample3"
-   }},
-    {"WSO2PluginSampleExt" : {  
+      "iconLoc":"icon.png"
+   },
+  {  
       "pluginName":"sample4",
       "pluginArchive":"sample4.zip",
       "pluginDescription":"this is sample 4 from developer studio ",
-      "iconLoc":"icons/sample4"
-   }}
+      "iconLoc":"icon.png"
+   }
 ]

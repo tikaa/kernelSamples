@@ -7,13 +7,13 @@
       "iconLoc":"icon.png"
    },
    {  
-      "pluginName":"sample2",
+      "pluginName":"sample1",
       "pluginArchive":"sample2.zip",
       "pluginDescription":"this is sample 2 from developer studio ",
       "iconLoc":"icon.png"
    },
     {  
-      "pluginName":"sample3",
+      "pluginName":"sample1",
       "pluginArchive":"sample3.zip",
       "pluginDescription":"this is sample 3 from developer studio ",
       "iconLoc":"icon.png"
